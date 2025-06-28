@@ -1,0 +1,34 @@
+line 4 column 3 - Warning: <meta> lacks "content" attribute
+line 9 column 5 - Warning: unknown attribute "as"
+line 10 column 5 - Warning: unknown attribute "as"
+line 11 column 5 - Warning: unknown attribute "as"
+line 12 column 5 - Warning: unknown attribute "as"
+line 13 column 7 - Warning: link lacks "type" attribute
+line 14 column 5 - Warning: link lacks "type" attribute
+line 17 column 3 - Warning: <style> lacks "type" attribute
+line 17 column 3 - Warning: <style> isn't allowed in <body> elements
+line 49 column 5 - Warning: <auth-login> attribute ":token" has invalid value ""e3feac1edd0a3b6edcb9c7a250c4529._qOppsu6Y5SQYBq-W5yJBdskjRHxzCJhxs9I9fAcDz0.v-CE57PNDPjqEEPoEvPTYLlRvFKzvksDof96xJRoVlu21tmUvutR0OIYIg""
+line 49 column 5 - Warning: <auth-login> attribute ":login-logo-src" has invalid value ""\/web\/images\/ohrm_logo.png""
+line 49 column 5 - Warning: <auth-login> attribute ":login-banner-src" has invalid value ""\/web\/images\/ohrm_branding.png?v=1721393199309""
+line 49 column 5 - Warning: <auth-login> attribute ":show-social-media" has invalid value "true"
+line 49 column 5 - Warning: <auth-login> attribute ":is-demo-mode" has invalid value "true"
+line 49 column 5 - Warning: <auth-login> attribute ":authenticators" has invalid value "[]"
+line 49 column 5 - Error: <auth-login> is not recognized!
+line 49 column 5 - Warning: discarding unexpected <auth-login>
+line 57 column 5 - Error: <template> is not recognized!
+line 57 column 5 - Warning: discarding unexpected <template>
+line 59 column 13 - Error: <oxd-text> is not recognized!
+line 59 column 13 - Warning: discarding unexpected <oxd-text>
+line 59 column 75 - Warning: discarding unexpected </oxd-text>
+line 60 column 2 - Error: <oxd-text> is not recognized!
+line 60 column 2 - Warning: discarding unexpected <oxd-text>
+line 60 column 157 - Warning: discarding unexpected </oxd-text>
+line 62 column 1 - Warning: discarding unexpected </template>
+line 63 column 1 - Warning: discarding unexpected </auth-login>
+line 71 column 5 - Warning: <script> lacks "type" attribute
+line 72 column 5 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+25 warnings, 4 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
